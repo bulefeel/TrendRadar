@@ -101,60 +101,77 @@ weight:
 #     name: "知乎"
 platforms:
   # 国际科技媒体（英文）
-  - name: "TechCrunch"
+  - id: "techcrunch"
+    name: "TechCrunch"
     rss_url: "https://techcrunch.com/feed/"
     enabled: true
-  - name: "VentureBeat"
+  - id: "venturebeat"
+    name: "VentureBeat"
     rss_url: "https://venturebeat.com/feed/"
     enabled: true
-  - name: "MIT Technology Review"
+  - id: "mit_tech_review"
+    name: "MIT Technology Review"
     rss_url: "https://www.technologyreview.com/feed/"
     enabled: true
-  - name: "Wired"
+  - id: "wired"
+    name: "Wired"
     rss_url: "https://www.wired.com/feed/"
     enabled: true
-  - name: "Ars Technica"
+  - id: "ars_technica"
+    name: "Ars Technica"
     rss_url: "https://arstechnica.com/feed/"
     enabled: true
   
   # 国际AI研究/社区
-  - name: "Hugging Face Blog"
+  - id: "hugging_face_blog"
+    name: "Hugging Face Blog"
     rss_url: "https://huggingface.co/blog/feed.xml"
     enabled: true
-  - name: "OpenAI Blog"
+  - id: "openai_blog"
+    name: "OpenAI Blog"
     rss_url: "https://openai.com/blog/rss/"
     enabled: true
-  - name: "DeepMind Blog"
+  - id: "deepmind_blog"
+    name: "DeepMind Blog"
     rss_url: "https://deepmind.com/blog/rss.xml"
     enabled: true
-  - name: "AI Research News"
+  - id: "ai_research_news"
+    name: "AI Research News"
     rss_url: "https://airesearch.news/feed/"
     enabled: true
   
   # 国内科技媒体（中文）
-  - name: "36氪"
+  - id: "36kr"
+    name: "36氪"
     rss_url: "https://36kr.com/feed"
     enabled: true
-  - name: "钛媒体"
+  - id: "tmtpost"
+    name: "钛媒体"
     rss_url: "https://www.tmtpost.com/rss.xml"
     enabled: true
-  - name: "机器之心"
+  - id: "jiqizhixin"
+    name: "机器之心"
     rss_url: "https://www.jiqizhixin.com/rss"
     enabled: true
-  - name: "量子位"
+  - id: "qbitai"
+    name: "量子位"
     rss_url: "https://www.qbitai.com/feed"
     enabled: true
-  - name: "雷锋网"
+  - id: "leiphone"
+    name: "雷锋网"
     rss_url: "https://www.leiphone.com/feed"
     enabled: true
   
   # 国内AI公司博客
-  - name: "百度AI博客"
+  - id: "baidu_ai_blog"
+    name: "百度AI博客"
     rss_url: "https://ai.baidu.com/blog/rss"
     enabled: true
-  - name: "阿里达摩院"
+  - id: "ali_damoyuan"
+    name: "阿里达摩院"
     rss_url: "https://damo.alibaba.com/blog/rss"
     enabled: true
-  - name: "商汤科技"
+  - id: "sensetime_blog"
+    name: "商汤科技"
     rss_url: "https://www.sensetime.com/blog/rss"
     enabled: true
