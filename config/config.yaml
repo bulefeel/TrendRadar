@@ -76,26 +76,85 @@ weight:
   hotness_weight: 0.1 # 热度权重
 
 # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
+# platforms:
+#   - id: "toutiao"
+#     name: "今日头条"
+#   - id: "baidu"
+#     name: "百度热搜"
+#   - id: "wallstreetcn-hot"
+#     name: "华尔街见闻"
+#   - id: "thepaper"
+#     name: "澎湃新闻"
+#   - id: "bilibili-hot-search"
+#     name: "bilibili 热搜"
+#   - id: "cls-hot"
+#     name: "财联社热门"
+#   - id: "ifeng"
+#     name: "凤凰网"
+#   - id: "tieba"
+#     name: "贴吧"
+#   - id: "weibo"
+#     name: "微博"
+#   - id: "douyin"
+#     name: "抖音"
+#   - id: "zhihu"
+#     name: "知乎"
 platforms:
-  - id: "toutiao"
-    name: "今日头条"
-  - id: "baidu"
-    name: "百度热搜"
-  - id: "wallstreetcn-hot"
-    name: "华尔街见闻"
-  - id: "thepaper"
-    name: "澎湃新闻"
-  - id: "bilibili-hot-search"
-    name: "bilibili 热搜"
-  - id: "cls-hot"
-    name: "财联社热门"
-  - id: "ifeng"
-    name: "凤凰网"
-  - id: "tieba"
-    name: "贴吧"
-  - id: "weibo"
-    name: "微博"
-  - id: "douyin"
-    name: "抖音"
-  - id: "zhihu"
-    name: "知乎"
+  # 国际科技媒体（英文）
+  - name: "TechCrunch"
+    rss_url: "https://techcrunch.com/feed/"
+    enabled: true
+  - name: "VentureBeat"
+    rss_url: "https://venturebeat.com/feed/"
+    enabled: true
+  - name: "MIT Technology Review"
+    rss_url: "https://www.technologyreview.com/feed/"
+    enabled: true
+  - name: "Wired"
+    rss_url: "https://www.wired.com/feed/"
+    enabled: true
+  - name: "Ars Technica"
+    rss_url: "https://arstechnica.com/feed/"
+    enabled: true
+  
+  # 国际AI研究/社区
+  - name: "Hugging Face Blog"
+    rss_url: "https://huggingface.co/blog/feed.xml"
+    enabled: true
+  - name: "OpenAI Blog"
+    rss_url: "https://openai.com/blog/rss/"
+    enabled: true
+  - name: "DeepMind Blog"
+    rss_url: "https://deepmind.com/blog/rss.xml"
+    enabled: true
+  - name: "AI Research News"
+    rss_url: "https://airesearch.news/feed/"
+    enabled: true
+  
+  # 国内科技媒体（中文）
+  - name: "36氪"
+    rss_url: "https://36kr.com/feed"
+    enabled: true
+  - name: "钛媒体"
+    rss_url: "https://www.tmtpost.com/rss.xml"
+    enabled: true
+  - name: "机器之心"
+    rss_url: "https://www.jiqizhixin.com/rss"
+    enabled: true
+  - name: "量子位"
+    rss_url: "https://www.qbitai.com/feed"
+    enabled: true
+  - name: "雷锋网"
+    rss_url: "https://www.leiphone.com/feed"
+    enabled: true
+  
+  # 国内AI公司博客
+  - name: "百度AI博客"
+    rss_url: "https://ai.baidu.com/blog/rss"
+    enabled: true
+  - name: "阿里达摩院"
+    rss_url: "https://damo.alibaba.com/blog/rss"
+    enabled: true
+  - name: "商汤科技"
+    rss_url: "https://www.sensetime.com/blog/rss"
+    enabled: true
