@@ -1,84 +1,25 @@
+# 大模型/生成式AI
+大模型,LLM,生成式AI,AIGC,Generative AI,
+GPT-4,GPT-5, Claude, Gemini, Llama,
+文心一言,通义千问,讯飞星火,商汤日日新,
 
+# AI技术
+机器学习,深度学习,强化学习,监督学习,无监督学习,
+神经网络,Transformer,注意力机制,
+自然语言处理,NLP,计算机视觉,CV,
+多模态,语音识别,语义理解,
 
-DeepSeek
-梁文锋
+# AI应用场景
+AI医疗,AI教育,AI金融,AI工业,AI自动驾驶,
+AI绘画,AI写作,AI代码,AI助手,
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+# AI工具/框架
+TensorFlow,PyTorch,Hugging Face,
+LangChain,Stable Diffusion,Midjourney,
 
+# AI产业动态
+AI融资,AI创业,AI政策,AI伦理,AI安全,
+AI人才,AI会议,NeurIPS,ICML,
 
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-
-
-
-
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
-
-
-
-
-
-美国
-
-
-芯片
-光刻机
-
-科技
-
-
-
+# AI芯片
+GPU,NVIDIA,A100,H100,AI芯片,
