@@ -103,75 +103,75 @@ platforms:
   # 国际科技媒体（英文）
   - id: "techcrunch"
     name: "TechCrunch"
-    rss_url: "https://techcrunch.com/feed/"
+    rss_url: "https://techcrunch.com/feed/"  # 官方直接RSS
     enabled: true
   - id: "venturebeat"
     name: "VentureBeat"
-    rss_url: "https://venturebeat.com/feed/"
+    rss_url: "https://venturebeat.com/feed/"  # 官方直接RSS
     enabled: true
   - id: "mit_tech_review"
     name: "MIT Technology Review"
-    rss_url: "https://www.technologyreview.com/feed/"
+    rss_url: "https://www.technologyreview.com/feed/"  # 官方直接RSS
     enabled: true
   - id: "wired"
     name: "Wired"
-    rss_url: "https://www.wired.com/feed/"
+    rss_url: "https://www.wired.com/feed/rss"  # 官方直接RSS
     enabled: true
   - id: "ars_technica"
     name: "Ars Technica"
-    rss_url: "https://arstechnica.com/feed/"
+    rss_url: "https://arstechnica.com/feed/"  # 官方直接RSS
     enabled: true
   
   # 国际AI研究/社区
   - id: "hugging_face_blog"
     name: "Hugging Face Blog"
-    rss_url: "https://huggingface.co/blog/feed.xml"
+    rss_url: "https://huggingface.co/blog/feed.xml"  # 官方直接RSS
     enabled: true
   - id: "openai_blog"
     name: "OpenAI Blog"
-    rss_url: "https://openai.com/blog/rss/"
+    rss_url: "https://openai.com/blog/rss/"  # 官方直接RSS
     enabled: true
   - id: "deepmind_blog"
     name: "DeepMind Blog"
-    rss_url: "https://deepmind.com/blog/rss.xml"
+    rss_url: "https://deepmind.com/blog/rss.xml"  # 官方直接RSS
     enabled: true
   - id: "ai_research_news"
     name: "AI Research News"
-    rss_url: "https://airesearch.news/feed/"
+    rss_url: "https://airesearch.news/feed/"  # 官方直接RSS
     enabled: true
   
   # 国内科技媒体（中文）
   - id: "36kr"
     name: "36氪"
-    rss_url: "https://36kr.com/feed"
+    rss_url: "https://36kr.com/feed"  # 官方直接RSS
     enabled: true
   - id: "tmtpost"
     name: "钛媒体"
-    rss_url: "https://www.tmtpost.com/rss.xml"
+    rss_url: "https://www.tmtpost.com/rss.xml"  # 官方直接RSS
     enabled: true
   - id: "jiqizhixin"
     name: "机器之心"
-    rss_url: "https://www.jiqizhixin.com/rss"
+    rss_url: "https://www.jiqizhixin.com/rss"  # 官方直接RSS
     enabled: true
   - id: "qbitai"
     name: "量子位"
-    rss_url: "https://www.qbitai.com/feed"
+    rss_url: "https://www.qbitai.com/feed"  # 官方直接RSS
     enabled: true
   - id: "leiphone"
     name: "雷锋网"
-    rss_url: "https://www.leiphone.com/feed"
+    rss_url: "https://www.leiphone.com/feed"  # 官方直接RSS
     enabled: true
   
   # 国内AI公司博客
   - id: "baidu_ai_blog"
     name: "百度AI博客"
-    rss_url: "https://ai.baidu.com/blog/rss"
+    rss_url: "https://ai.baidu.com/blog/rss"  # 官方直接RSS
     enabled: true
   - id: "ali_damoyuan"
     name: "阿里达摩院"
-    rss_url: "https://damo.alibaba.com/blog/rss"
+    rss_url: "https://damo.alibaba.com/blog/rss"  # 官方直接RSS
     enabled: true
   - id: "sensetime_blog"
     name: "商汤科技"
-    rss_url: "https://www.sensetime.com/blog/rss"
+    rss_url: "https://www.sensetime.com/blog/rss"  # 官方直接RSS
     enabled: true
