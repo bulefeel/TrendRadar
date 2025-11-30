@@ -1,0 +1,18 @@
+==== 以下ID请求失败 ====
+techcrunch
+venturebeat
+mit_tech_review
+wired
+ars_technica
+hugging_face_blog
+openai_blog
+deepmind_blog
+ai_research_news
+36kr
+tmtpost
+jiqizhixin
+qbitai
+leiphone
+baidu_ai_blog
+ali_damoyuan
+sensetime_blog
